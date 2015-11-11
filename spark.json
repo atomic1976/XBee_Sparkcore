@@ -1,7 +1,7 @@
 {
   "name": "XBee",
-  "author": "someone_else",
+  "author": "atomic1976, dclobato",
   "license": "n/a",
-  "version": "0.0.10",
-  "description": "A library for XBee on Spark Core"
+  "version": "0.1.0",
+  "description": "A library for XBee on Spark Core, based on xbee-arduino 0.6.0"
 }
